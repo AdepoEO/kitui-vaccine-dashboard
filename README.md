@@ -7,7 +7,6 @@
 
 **Real-time YOLOv10n vaccine vial verification dashboard** for Kitui Health Centre by [AdepoEO](https://github.com/AdepoEO). Features field pilot simulation, provenance tracking, GPS validation, and edge-deployed computer vision pipeline achieving **92% mAP** with **25ms Android inference**.
 
-![Dashboard Screenshot](screenshots/dashboard.png)
 
 ## 🚀 Features
 
